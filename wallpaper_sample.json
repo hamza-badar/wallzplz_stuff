@@ -1,0 +1,329 @@
+{
+	"Categories": [{
+			"name": "Nature"
+		},
+		{
+			"name": "Objects"
+		},
+		{
+			"name": "Structures"
+		},
+		{
+			"name": "Arts"
+		},
+		{
+			"name": "Customworx"
+		}
+        ],
+
+	"Wallpapers": [
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/dell.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/dell%20thumb.jpg",
+			"name": "Dell",
+			"category": "Arts"
+		},
+                {
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/leaf%20illusion.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/leaf%20illusion%20thumb.jpg",
+			"name": "Leaf Illusion",
+			"category": "Arts"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/money%20plant.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/money%20plant%20thumb.jpg",
+			"name": "Money Plant",
+			"category": "Nature"
+		},
+                {
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/gelow%20stem.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/gelow%20stem%20thumb.jpg",
+			"name": "Gelow stem",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/unknown.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/unknown%20thumb.jpg",
+			"name": "unknown",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/leafs.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/leafs%20thumb.jpg",
+			"name": "Leafs",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/the%20mat.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/the%20mat%20thumb.jpg",
+			"name": "The mat",
+			"category": "Arts"
+		},
+                {
+                        "author": "by Hamza Badar",
+                        "url": "https://raw.githubusercontent.com/hamza-badar/walls/master/garnet.jpeg",
+                        "thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/garnet%20thumb.jpg",
+                        "name": "Garnet",
+                        "category": "Arts"
+                },
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/true%20leaf.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/true%20leaf%20thumb.jpg",
+			"name": "True Leaf",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/nature's%20heart.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/nature's%20heart%20thumb.jpg",
+			"name": "Nature's Heart",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/nature's%20path.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/nature's%20path%20thumb.jpg",
+			"name": "Nature's Path",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/the%20shadow.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/the%20shadow%20thumb.jpg",
+                        "name": "The Shadow ",
+			"category": "Arts"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/sun.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/sun%20thumb.jpg",
+			"name": "Sun",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/hot%20stones.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/hot%20stones%20thumb.jpg",
+			"name": "Hot Stones",
+			"category": "Nature"
+		},
+		{
+			"author": "by Dev Mashru",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/i%20am%20a%20stick.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/i%20am%20a%20tick%20thumb.jpg",
+			"name": "I am a Stick",
+			"category": "Arts"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/butterfly.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/butterfly%20thumb.jpg",
+			"name": "Butterfly",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/pearl%20millet.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/pearl%20millet%20thumb.jpg",
+			"name": "Pearl Millet",
+			"category": "Arts"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/after%20the%20shine.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/after%20the%20shine%20thumb.jpg",
+			"name": "After the Shine",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/all%20greensih.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/all%20greensih%20thumb.jpg",
+			"name": "All Greenish",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/black&white.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/black&white%20thumb.jpg",
+			"name": "Black&White",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/far%20far%20away.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/far%20far%20away%20thumb.jpg",
+			"name": "Far Far Away",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/fire%20of%20flower.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/fire%20of%20flower%20thumb.jpg",
+			"name": "Fire of Flower",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/flower%20sun.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/flower%20sun%20thumb.jpg",
+			"name": "Flower Sun",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/materialism%202.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/materialism%202%20thumb.jpg",
+			"name": "Materialism 2",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/materialism.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/materialism%20thumb.jpg",
+			"name": "Materialism",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/out%20of%20nowhere.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/out%20of%20nowhere%20thumb.jpg",
+			"name": "Out of Nowhere",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/red%20rose.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/red%20rose%20thumb.jpg",
+			"name": "Red Rose",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/about%20to%20born.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/about%20to%20born%20thumb.jpg",
+			"name": "About to Born",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/art%20and%20nature.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/art%20and%20nature%20thumb.jpg",
+			"name": "Art & Nature",
+			"category": "Art"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/coral.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/coral%20thumb.jpg",
+			"name": "Coral",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/dead%20leaf.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/dead%20leaf%20thumb.jpg",
+			"name": "Dead Leaf",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/gold%20petals.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/gold%20petals%20thumb.jpg",
+			"name": "Gold Petals",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/just%20born.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/just%20born%20thumb.jpg",
+			"name": "Just Born",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/limish.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/limish%20thumb.jpg",
+			"name": "Limish",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/pink%20beauty.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/pink%20beauty%20thumb.jpg",
+			"name": "Pink Beauty",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/pure%20beauty.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/pure%20beauty%20thumb.jpg",
+			"name": "Pure Beauty",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/red%20flies.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/red%20flies%20thumb.jpg",
+			"name": "Red Flies",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/red%20hot.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/red%20hot%20thumb.jpg",
+			"name": "Red Hot",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/tentacles.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/tentacles%20thumb.jpg",
+			"name": "Tentacles",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/the%20white%20fur.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/the%20white%20fur%20thumb.jpg",
+			"name": "The White Fur",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/triplet%20pink.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/triplet%20pink%20thumb.jpg",
+			"name": "Triplet Pink",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/pink%20star.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/pink%20star%20thumb.jpg",
+			"name": "Pink Star",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/the%20colour%20of%20peace.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/the%20colour%20of%20peace%20thumb.jpg",
+			"name": "Colour of Peace",
+			"category": "Nature"
+		},
+		{
+			"author": "by Hamza Badar",
+			"url": "https://raw.githubusercontent.com/hamza-badar/walls/master/the%20ground.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/hamza-badar/walls/master/the%20ground%20thumb.jpg",
+			"name": "The Ground",
+			"category": "Nature"
+		}
+	]
+}
